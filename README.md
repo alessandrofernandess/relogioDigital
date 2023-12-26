@@ -13,20 +13,12 @@ Bem-vindo ao meu primeiro projeto! Este é um relógio digital simples construí
 
 Faça o download ou clone o repositório para o seu ambiente local.
 
-bash
-Copy code
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
 1. Abra o arquivo **index.html** no seu navegador da web preferido.
 2. O relógio digital será exibido, mostrando a hora atual.
 
 ### Personalização <h3>
 
-Este projeto foi projetado com simplicidade em mente e é altamente personalizável. Sinta-se à vontade para ajustar o estilo, modificando propriedades no arquivo [*style.css*](https://github.com/alessandrofernandess/relogioDigital/blob/main/styles.css).
-
-css
-Copy code
-/* Adicione suas personalizações de estilo aqui */
+Este projeto foi projetado com simplicidade em mente e é altamente personalizável. Sinta-se à vontade para ajustar o estilo, modificando propriedades no arquivo [**style.css**](https://github.com/alessandrofernandess/relogioDigital/blob/main/styles.css).
 
 ### Contribuições <h3>
 
@@ -34,4 +26,4 @@ Como iniciante, eu aceito qualquer contribuição, feedback ou sugestões de mel
 
 ### Licença <h3>
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [**LICENSE.md**](https://github.com/alessandrofernandess/relogioDigital/blob/main/LICENSE) para obter mais detalhes.
