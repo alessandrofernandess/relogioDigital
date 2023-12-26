@@ -22,7 +22,7 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ### Personalização <h3>
 
-Este projeto foi projetado com simplicidade em mente e é altamente personalizável. Sinta-se à vontade para ajustar o estilo, modificando propriedades no arquivo *style.css*.
+Este projeto foi projetado com simplicidade em mente e é altamente personalizável. Sinta-se à vontade para ajustar o estilo, modificando propriedades no arquivo [*style.css*](https://github.com/alessandrofernandess/relogioDigital/blob/main/styles.css).
 
 css
 Copy code
