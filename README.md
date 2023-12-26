@@ -3,7 +3,7 @@
 
 Bem-vindo ao meu primeiro projeto! Este é um relógio digital simples construído usando HTML, CSS e JavaScript. O objetivo deste projeto é oferecer um relógio digital básico, mas funcional, que pode ser facilmente integrado a páginas da web.
 
-### Funcionalidades <3h>
+### Funcionalidades <h3>
 
 * Exibe a hora atual em formato de 24 horas.
 * Atualiza em tempo real para refletir a hora do sistema.
@@ -12,6 +12,7 @@ Bem-vindo ao meu primeiro projeto! Este é um relógio digital simples construí
 ### Como Usar <h3>
 
 Faça o download ou clone o repositório para o seu ambiente local.
+
 bash
 Copy code
 git clone https://github.com/seu-usuario/seu-repositorio.git
