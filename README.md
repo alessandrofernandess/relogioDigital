@@ -13,7 +13,7 @@ Bem-vindo ao meu primeiro projeto! Este é um relógio digital simples construí
 
 Faça o download ou clone o repositório para o seu ambiente local.
 
-1. Abra o arquivo **index.html** no seu navegador da web preferido.
+1. Abra o arquivo **index.html** no seu navegador.
 2. O relógio digital será exibido, mostrando a hora atual.
 
 ### Personalização <h3>
